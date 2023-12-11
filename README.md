@@ -1,4 +1,4 @@
-Hi 👋 My name is Hamza Mirza
+Hi 👋, My name is Hamza Mirza
 ============================
 
 Frontend Developer
