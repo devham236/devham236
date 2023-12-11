@@ -11,7 +11,7 @@ I am a self-taught Frontend Developer who fell in love with the process of build
 * 🚀  I'm currently working on my [AI-Gift-Recommender](http://github.com/devham236/ai-gift-recommender)
 * 🧠  I'm currently learning how to use OpenAI's API
 * 🤝  I'm open to collaborating on interesting projects using React
-* ⚡  2006 Time Magazine Person of the Year
+* 🏆  2006 Time Magazine Person of the Year
 
 ### Skills
 
