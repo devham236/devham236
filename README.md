@@ -2,7 +2,7 @@ Hi there <img width="70" alt="image" src="https://github.com/devham236/devham236
  my name is Hamza
 ============================
 
-Frontend Developer
+About Me
 ------------------
 
 I am a self-taught Frontend Developer who fell in love with the process of building web applications from scratch
