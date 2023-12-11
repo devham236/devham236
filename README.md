@@ -1,5 +1,5 @@
 Hi there <img width="70" alt="image" src="https://github.com/devham236/devham236/assets/90037750/42683c3c-8519-4591-851b-cffe198f7398">,
- My name is Hamza Mirza
+ my name is Hamza
 ============================
 
 Frontend Developer
