@@ -5,8 +5,7 @@ Hi there <img width="70" alt="image" src="https://github.com/devham236/devham236
 About Me
 ------------------
 
-I am a self-taught Frontend Developer who fell in love with the process of building web applications from scratch. All of the projects were planned, designed and built by myself.
-
+I am a self-taught Frontend Developer who fell in love with the process of building web applications from scratch.
 * 🌍  I'm based in Hannover, Germany
 * ✉️  You can contact me at [hamzamirza74@gmail.com](mailto:hamzamirza74@gmail.com)
 * 🚀  I'm currently working on my [AI-Gift-Recommender](http://github.com/devham236/ai-gift-recommender)
