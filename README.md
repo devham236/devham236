@@ -9,7 +9,6 @@ I am a Computer Science Student and driven to understand and create the software
 * 🌍  I'm based in Hannover, Germany
 * ✉️  You can contact me at [hamzamirza74@gmail.com](mailto:hamzamirza74@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects using Javascript or Java
-* 🏆  2006 Time Magazine Person of the Year
 
 
 Skills
